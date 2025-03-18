@@ -15,7 +15,7 @@ This project analyzes the relationship between global temperature changes and th
 The project is organized into the following directories and files:  
 
 ### **Root Directory**  
-- **README.md**: This file, providing an overview of the project.  
+- **README.md**: This file, provides an overview of the project.  
 
 ### **Data Directory**  
 Contains all datasets used in the analysis:  
@@ -50,8 +50,23 @@ Contains all datasets used in the analysis:
 
 ### **Prerequisites**  
 - Python 3.x  
-- Required Python libraries: pandas, numpy, matplotlib, seaborn  
+- Required Python libraries: pandas, numpy, matplotlib, seaborn
 
+### **Installation**  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/AdamPywell/natural_disaster_analysis_project.git  
+   ```  
+2. Navigate to the project directory:  
+   ```bash  
+   cd natural_disaster_analysis_project  
+   ```  
+3. Install the required dependencies
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+     
 ---
 
 ## **Hypothesis**  
@@ -150,7 +165,8 @@ The analysis supports the hypothesis that rising global temperatures are positiv
 
 ## **Team Contributions**  
 ### **Adam Pywell**  
-- Organized communication channels and meetings.  
+- Organized communication channels and meetings.
+- Gathered data sources and files
 - Conducted wildfire data analysis.  
 - Edited and structured the final report.  
 
